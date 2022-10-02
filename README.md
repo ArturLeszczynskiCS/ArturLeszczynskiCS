@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ArturLeszczynskiCS
-- 👀 I’m interested in JAVA, MOTORCYCLE, CS:GO
+- 👋 Hi, I’m Artur Leszczyński
+- 👀 I’m interested in JAVA, MOTORCYCLE, CS:GO, Football
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on JAVA projects
 - 📫 How to reach me leszczynskigdynia@gmail.com 
